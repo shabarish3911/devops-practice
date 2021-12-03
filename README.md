@@ -1,6 +1,5 @@
 # python development
 # Python code demonstrate the working of
-# sorted() with lambda
  
 # Initializing list of dictionaries
 lis = [{ "name" : "Nandini", "age" : 20},

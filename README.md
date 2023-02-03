@@ -1,2 +1,2 @@
-# devops-cycle
+devops
 
